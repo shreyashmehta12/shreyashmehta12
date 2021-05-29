@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shreyash Mehta
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Business Analytics
 - 🌱 I’m currently working at Tata Consultancy Services
 - 📫 How to reach me shreyashmehta12@gmail.com
 
